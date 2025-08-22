@@ -15,12 +15,12 @@ In the survey study, We designed a questionnaire based on the results of the Min
 ```plaintext
 ├── Mining                          # Files related to the mining study
 │ ├── extracted data items.xlsx     # Data Items extracted from valid conversations
-│ ├── raw conversation data.zip     #	Conversations with ChatGPT from Github
-│ ├── valid conversations data.zip  #	Conversations related to software design
+│ ├── raw conversation data.zip     # Conversations with ChatGPT from Github
+│ ├── valid conversations data.zip  # Conversations related to software design
 ├── Survey                          # Files related to the survey study
-│ ├── e-mail template.docx          #	E-mail template for inviting potential participants
-│ ├── Questionnaire.pdf             #	Questionnaire of the survey study
-│ ├── Reply.xlsx                    #	Replies from the participants
+│ ├── e-mail template.docx          # E-mail template for inviting potential participants
+│ ├── Questionnaire.pdf             # Questionnaire of the survey study
+│ ├── Reply.xlsx                    # Replies from the participants
 └── README.md                       # Description of this replication package
 ```
 
