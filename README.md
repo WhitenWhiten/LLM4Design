@@ -1,4 +1,4 @@
-# Replication manual for the paper: *Using LLMs in Software Design*
+# Replication manual for the paper: *Using LLMs in Software Design: A Study of GitHub and A Practitioner Survey*
 
 This repository is the replication package for the paper: Using LLMs in Software Design. The current work  contains two sub-study, one mining study and one survey study, and the files related to the two parts are stored in the two different folders of this repository, `Mining` and `Survey`. In the following two sections, we will present the way to replicate the results of the two studies separately.
 
@@ -13,15 +13,15 @@ In the mining study, we compiled an original data source by integrating conversa
 ## 📁 Repository Structure
 
 ```plaintext
-├── Mining        
-│ ├── extracted data items.xlsx
-│ ├── raw conversation data.zip
-│ ├── valid conversations data.zip
-├── Survey
-│ ├── e-mail template.docx
-│ ├── Questionnaire.pdf
-│ ├── Reply.xlsx
-└── README.md
+├── Mining													# Files related to the mining study
+│ ├── extracted data items.xlsx			# Data Items extracted from valid conversations
+│ ├── raw conversation data.zip			#	Conversations with ChatGPT from Github
+│ ├── valid conversations data.zip	#	Conversations related to software design
+├── Survey													# Files related to the survey study
+│ ├── e-mail template.docx					#	E-mail template for inviting potential participants
+│ ├── Questionnaire.pdf							#	Questionnaire of the survey study
+│ ├── Reply.xlsx										#	Replies from the participants
+└── README.md												# Description of this replication package
 ```
 
 ## 📝 Citation
@@ -29,7 +29,7 @@ In the mining study, we compiled an original data source by integrating conversa
 ```bibtex
 @article{LLM4Design,
   author = {Wang, Yifei and Li, Ruiyin and Liang, Peng and Cai, Yangxiao},
-  title = {{Using LLMs in Software Design}},
+  title = {{Using LLMs in Software Design: A Study of GitHub and A Practitioner Survey}},
   journal={arXiv preprint arXiv:},
   year={2025}
 }
