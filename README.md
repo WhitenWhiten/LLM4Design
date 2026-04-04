@@ -8,20 +8,20 @@ In the mining study, we compiled an original data source by integrating conversa
 
 ## 🙂 Survey Study
 
-In the survey study, We designed a questionnaire based on the results of the Mining study and created an email template to invite participants to the survey study, both of which are stored in `Survey/Questionnaire.pdf` and `Survey/e-mail template.docx`. The survey questions encompass demographic inquiries (SQ1\~SQ3), as well as questions designed to validate the findings of RQ1 and RQ2 from the mining study (SQ4\~SQ7), in addition to those aimed at exploring RQ3 and RQ4 (SQ8\~SQ11) . Potential participants were sourced from LinkedIn and GitHub, from which we collected their email addresses and subsequently reached out using the aforementioned email template. The replies are stored in `Survey/Reply.xlsx`. The responses from the survey study serve two purposes: firstly, to validate the findings of the mining study by conducting statistical analyses on SQ4 to SQ7 and comparing them with the conclusions drawn from RQ1 and RQ2 of the mining study; secondly, to investigate RQ3 and RQ4, which necessitates the application of the Constant Comparative method once more. This process is elaborately detailed in the "survey study design" subsection under "study design" section in the paper, providing a reference for replication.
+In the survey study, We designed a questionnaire based on the results of the Mining study and created an email template to invite participants to the survey study, both of which are stored in `Survey/Questionnaire.pdf` and `Survey/e-mail template.docx`. The survey questions encompass demographic inquiries (SQ1\~SQ3), as well as questions designed to validate the findings of RQ1 and RQ2 from the mining study (SQ4\~SQ7), in addition to those aimed at exploring RQ3 and RQ4 (SQ8\~SQ11). Potential participants were sourced from LinkedIn and GitHub, from which we collected their email addresses and subsequently reached out using the aforementioned email template. The replies are stored in `Survey/Reply.xlsx`. The responses from the survey study serve two purposes: firstly, to validate the findings of the mining study by conducting statistical analyses on SQ4 to SQ7 and comparing them with the conclusions drawn from RQ1 and RQ2 of the mining study; secondly, to investigate RQ3 and RQ4, which necessitates the application of the Constant Comparative method once more. This process is elaborately detailed in the "survey study design" subsection under "study design" section in the paper, providing a reference for replication.
 
 ## 📁 Repository Structure
 
 ```plaintext
-├── Mining                          # Files related to the mining study
-│ ├── extracted data items.xlsx     # Data Items extracted from valid conversations
-│ ├── raw conversation data.zip     # Conversations with ChatGPT from Github
-│ ├── valid conversations data.zip  # Conversations related to software design
-├── Survey                          # Files related to the survey study
-│ ├── e-mail template.docx          # E-mail template for inviting potential participants
-│ ├── Questionnaire.pdf             # Questionnaire of the survey study
-│ ├── Reply.xlsx                    # Replies from the participants
-└── README.md                       # Description of this replication package
+├── Mining                                    # Files related to the mining study
+│ ├── extracted data items.xlsx               # Data Items extracted from valid conversations
+│ ├── raw conversation data.zip               # Conversations with ChatGPT from Github
+│ ├── valid conversations data.zip            # Conversations related to software design
+├── Survey                                    # Files related to the survey study
+│ ├── Survey Invitation email Template.docx   # E-mail template for inviting survey participants
+│ ├── Questionnaire.pdf                       # Questionnaire of the survey study
+│ ├── Responses.xlsx                          # Responses from the participants
+└── README.md                                 # Description of this replication package
 ```
 
 ## 📝 Citation
