@@ -31,6 +31,6 @@ In the survey study, We designed a questionnaire based on the results of the Min
   author = {Wang, Yifei and Li, Ruiyin and Liang, Peng and Cai, Yangxiao and Li, Zengyang and Shahin, Mojtaba},
   title = {{Using LLMs in Software Design: A Study of GitHub and A Practitioner Survey}},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2025}
+  year={2026}
 }
 ```
