@@ -18,10 +18,10 @@ In the survey study, We designed a questionnaire based on the results of the Min
 │ ├── raw conversation data.zip               # Conversations with ChatGPT from Github
 │ ├── valid conversations data.zip            # Conversations related to software design
 ├── Survey                                    # Files related to the survey study
-│ ├── Survey Invitation email Template.docx   # E-mail template for inviting survey participants
 │ ├── Questionnaire.pdf                       # Questionnaire of the survey study
 │ ├── Responses.xlsx                          # Responses from the participants
-└── README.md                                 # Description of this replication package
+├── README.md                                 # Description of this replication package
+└── Survey Invitation email Template          # E-mail template for inviting survey participants
 ```
 
 ## 📝 Citation
