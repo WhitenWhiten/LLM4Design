@@ -8,7 +8,7 @@ In the mining study, we compiled an original data source by integrating conversa
 
 ## 🙂 Survey Study
 
-In the survey study, We designed a questionnaire based on the results of the Mining study and created an email template to invite participants to the survey study, which are separately stored in `Survey Study/Questionnaire.pdf` and `Survey Invitation email Template.docx`. The survey questions encompass demographic inquiries (SQ1\~SQ3), as well as questions designed to validate the findings of RQ1 and RQ2 from the mining study (SQ4\~SQ7), in addition to those aimed at exploring RQ3 and RQ4 (SQ8\~SQ11). Potential participants were sourced from LinkedIn and GitHub, from which we collected their email addresses and subsequently reached out using the aforementioned email template. The responses are stored in `Survey Study/Responses.xlsx`. The responses from the survey study serve two purposes: firstly, to validate the findings of the mining study by conducting statistical analyses on SQ4 to SQ7 and comparing them with the conclusions drawn from RQ1 and RQ2 of the mining study; secondly, to investigate RQ3 and RQ4, which necessitates the application of the Constant Comparative method once more. This process is elaborately detailed in the "survey study design" subsection under "study design" section in the paper, providing a reference for replication.
+In the survey study, We designed a questionnaire based on the results of the Mining study and created an email template to invite participants to the survey study, which are separately stored in `Survey Study/Questionnaire.pdf` and `Survey Study/Survey Invitation email Template.docx`. The survey questions encompass demographic inquiries (SQ1\~SQ3), as well as questions designed to validate the findings of RQ1 and RQ2 from the mining study (SQ4\~SQ7), in addition to those aimed at exploring RQ3 and RQ4 (SQ8\~SQ11). Potential participants were sourced from LinkedIn and GitHub, from which we collected their email addresses and subsequently reached out using the aforementioned email template. The responses are stored in `Survey Study/Responses.xlsx`. The responses from the survey study serve two purposes: firstly, to validate the findings of the mining study by conducting statistical analyses on SQ4 to SQ7 and comparing them with the conclusions drawn from RQ1 and RQ2 of the mining study; secondly, to investigate RQ3 and RQ4, which necessitates the application of the Constant Comparative method once more. This process is elaborately detailed in the "survey study design" subsection under "study design" section in the paper, providing a reference for replication.
 
 ## 📁 Repository Structure
 
@@ -19,9 +19,9 @@ In the survey study, We designed a questionnaire based on the results of the Min
 │ ├── valid conversations data.zip            # Conversations related to software design
 ├── Survey Study                              # Files related to the survey study
 │ ├── Questionnaire.pdf                       # Questionnaire of the survey study
+│ ├── Survey Invitation email Template.docx   # E-mail template for inviting survey participants
 │ ├── Responses.xlsx                          # Responses from the participants
-├── README.md                                 # Description of this replication package
-└── Survey Invitation email Template.docx     # E-mail template for inviting survey participants
+└── README.md                                 # Description of this replication package
 ```
 
 ## 📝 Citation
