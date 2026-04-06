@@ -13,11 +13,11 @@ In the survey study, We designed a questionnaire based on the results of the Min
 ## 📁 Repository Structure
 
 ```plaintext
-├── Mining                                    # Files related to the mining study
+├── Mining Study                              # Files related to the mining study
 │ ├── extracted data items.xlsx               # Data Items extracted from valid conversations
 │ ├── raw conversation data.zip               # Conversations with ChatGPT from Github
 │ ├── valid conversations data.zip            # Conversations related to software design
-├── Survey                                    # Files related to the survey study
+├── Survey Study                              # Files related to the survey study
 │ ├── Questionnaire.pdf                       # Questionnaire of the survey study
 │ ├── Responses.xlsx                          # Responses from the participants
 ├── README.md                                 # Description of this replication package
