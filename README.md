@@ -20,7 +20,7 @@ In the survey study, We designed a questionnaire based on the results of the Min
 ├── Survey Study                              # Files related to the survey study
 │ ├── Questionnaire.pdf                       # Questionnaire of the survey study
 │ ├── Survey Invitation email Template.docx   # E-mail template for inviting survey participants
-│ ├── Responses.xlsx                          # Responses from the participants
+│ ├── Responses.xlsx                          # Responses from the participants, and data extracted
 └── README.md                                 # Description of this replication package
 ```
 
