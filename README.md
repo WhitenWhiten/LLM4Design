@@ -17,7 +17,7 @@ In the survey study, we designed a questionnaire based on the results of the min
 │ ├── raw conversation data.zip               # Raw conversation dataset used for screening
 │ ├── valid conversations data.zip            # 376 task-level conversation snippets extracted from 291 screened design-related conversations 
 │ ├── data_extraction.xlsx                    # Initial coding results for the identified design tasks
-│ ├── data_analysis.xlsx                      # Focused coding results and summary tables for RQ1 and RQ2conversations
+│ ├── data_analysis.xlsx                      # Focused coding results and summary tables for RQ1 and RQ2
 ├── Survey Study                              # Files related to the survey study
 │ ├── Questionnaire.pdf                       # Questionnaire used in the survey study
 │ ├── Survey Invitation email Template.docx   # E-mail template for inviting survey participants
