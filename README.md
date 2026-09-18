@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/WhitenWhiten/LLM4Design>
+    <a href="https://github.com/WhitenWhiten/LLM4Design">
       <img src="https://img.shields.io/badge/Code-GitHub-2d333b?style=flat-square&logo=github" alt="github">
     </a>
     <a href="https://arxiv.org/abs/2605.01392">
