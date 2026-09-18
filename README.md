@@ -1,4 +1,17 @@
-# Replication Package for the Paper: *Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey*
+<div align="center">
+  <h1 align="center">Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey</h1>
+</div>
+
+
+<div align="center">
+    <a href="https://github.com/WhitenWhiten/LLM4Design>
+      <img src="https://img.shields.io/badge/Code-GitHub-2d333b?style=flat-square&logo=github" alt="github">
+    </a>
+    <a href="https://arxiv.org/abs/2605.01392">
+      <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
+    </a>
+    <hr>
+</div>
 
 This repository provides the replication package for the paper: *Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey*. The work contains two sub-studies, a mining study and a survey study, and the files related to the two parts are stored in the two folders of this repository, `Mining Study` and `Survey Study`. In the following two sections, we describe the artifacts that support the replication of the two studies separately.
 
@@ -33,7 +46,7 @@ In the survey study, we designed a questionnaire based on the results of the min
 @article{LLM4Design,
   author = {Wang, Yifei and Li, Ruiyin and Liang, Peng and Cai, Yangxiao and Li, Zengyang and Shahin, Mojtaba and Khan, Arif Ali},
   title = {{Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey}},
-  journal = {ACM Transactions on Software Engineering and Methodology},
+  journal={arXiv preprint arXiv:2605.01392},
   year={2026}
 }
 ```
