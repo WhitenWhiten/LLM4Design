@@ -44,7 +44,7 @@ In the survey study, we designed a questionnaire based on the results of the min
 
 ```bibtex
 @article{LLM4Design,
-  author = {Wang, Yifei and Li, Ruiyin and Liang, Peng and Cai, Yangxiao and Li, Zengyang and Shahin, Mojtaba and Khan, Arif Ali},
+  author = {Wang, Yifei and Li, Ruiyin and Liang, Peng and Cai, Yangxiao and Li, Zengyang and Shahin, Mojtaba and Khan, Arif Ali and Feng, Qiong},
   title = {{Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey}},
   journal={arXiv preprint arXiv:2605.01392},
   year={2026}
